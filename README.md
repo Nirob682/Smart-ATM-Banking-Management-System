@@ -1,0 +1,2 @@
+# Smart-ATM-Banking-Management-System
+A secure console-based Smart ATM &amp; Banking Management System built with Java. Demonstrates practical implementation of core OOP pillars: Encapsulation, Abstraction, Inheritance &amp; Polymorphism. Features PIN login, dynamic interest calculation &amp; detailed transaction history. Perfect for understanding real-world software architecture &amp; OOP concepts!
